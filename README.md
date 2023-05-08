@@ -1,5 +1,5 @@
-# 💫 About Me:
-18 y.o.<br>Student<br>Trainee-IT
+# 🙃 About Me:
+18 y.o.<br>Student<br>
 
 
 # 💻 Tech Stack:
