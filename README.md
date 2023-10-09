@@ -1,5 +1,5 @@
 # 🙃 About Me:
-18 y.o.<br>Student<br>
+Student
 
 
 # 💻 Tech Stack:
