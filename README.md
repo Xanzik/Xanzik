@@ -5,13 +5,13 @@
 
 <br/>
 
-# ИМЯ ФАМИЛИЯ  
-### ✨ Fullstack разработчик ✨
+# Xanzik
+### ✨ Fullstack Developer ✨
 
 <br/>
 
 <!-- Топ языков (самый красивый и честный вариант) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB_НИК&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b2e&title_color=58a6ff&text_color=c9d1d9&hide=jupyter%20notebook,html,css" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanzik&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b2e&title_color=58a6ff&text_color=c9d1d9&hide=jupyter%20notebook,html,css" height="200"/>
 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 <br/><br/>
 
 <!-- Активность в виде графа (очень красиво и не выдаёт редкие коммиты) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_GITHUB_НИК&theme=tokyo-night&hide_border=true&bg_color=1a1b2e&color=58a6ff&line=58a6ff&point=e0af68" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xanzik&theme=tokyo-night&hide_border=true&bg_color=1a1b2e&color=58a6ff&line=58a6ff&point=e0af68" width="90%"/>
 
 <br/><br/>
 
