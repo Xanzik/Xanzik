@@ -9,7 +9,7 @@
 
   <details>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=твойник&theme=react&hide_border=true&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=твойник&theme=react&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=xanzik&theme=react&hide_border=true&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xanzik&theme=react&hide_border=true" />
   </details>
 </div>
