@@ -3,7 +3,7 @@
 
   <h2>🖥️ <samp>Full-stack разработчик</samp></h2>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=твойник&theme=tokyo-night&hide_border=true&custom_title=Моя%20активность" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xanzik&theme=tokyo-night&hide_border=true&custom_title=Моя%20активность" width="95%"/>
 
   <br/><br/>
 
