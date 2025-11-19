@@ -1,12 +1,7 @@
 <div align="center">
 
 <!-- Большой неоновый заголовок -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,100:0f3460&height=300&section=header&text=ИМЯ%20ФАМИЛИЯ&fontSize=80&animation=twinkling&fontColor=58a6ff" />
-
-<br/>
-
-# Xanzik
-### ✨ Fullstack Developer ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,100:0f3460&height=300&section=header&text=XANZIK%20FULLSTACK DEVELOPER&fontSize=80&animation=twinkling&fontColor=58a6ff" />
 
 <br/>
 
