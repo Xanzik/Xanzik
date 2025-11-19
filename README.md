@@ -30,6 +30,6 @@
 <br/>
 
 <!-- Просмотры профиля -->
-<img src="https://komarev.com/ghpvc/?username=ТВОЙ_GITHUB_НИК&color=58a6ff&style=for-the-badge&label=Просмотров+профиля" />
+<img src="https://komarev.com/ghpvc/?username=xanzik&color=58a6ff&style=for-the-badge&label=Просмотров+профиля" />
 
 </div>
