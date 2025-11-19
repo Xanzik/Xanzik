@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- Иконки технологий (выбирай свои или оставь эти) -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,nestjs,express,prisma,postgres,mongodb,docker,git,linux,neovim,aws,gcp,vscode&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,docker,git,vscode,webstorm&perline=10&theme=dark" />
 
 <br/><br/>
 
